@@ -3,7 +3,6 @@
 <h3 align="center">A passionate DevOps Enthusiast from India, always learning and growing! Love collaborating on exciting projects. Let's build something amazing together. 
 </h3></br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshsbhavsar&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshsbhavsar" /> </p> 
 
 - 🔭 I’m currently working on **expanding my DevOps knowledge**
