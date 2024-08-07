@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yogesh Bhavsar</h1>
-<h3 align="center">A passionate DevOps Enthusiast from India</h3>
+<h1 align="center">Hey Everyone 👋, I'm Yogesh Bhavsar</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
+<h3 align="center">A passionate DevOps Enthusiast from India, always learning and growing! Love collaborating on exciting projects. Let's build something amazing together. 
+</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshsbhavsar&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshsbhavsar" /> </p>
 
@@ -7,20 +10,18 @@
 
 - 🌱 I’m currently learning **various DevOps tools & AWS services.**
 
-- 👯 I’m looking to collaborate on **CICD projects.**
-
-- 🤝 **Seeking live project opportunities.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/YogeshSBhavsar](https://github.com/YogeshSBhavsar)
 
 - 💬 Ask me about **DevOps, AWS & Linux**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1zwnY-y99nSaOkZP9RG_NpvpuPYRLjGpM?usp=sharing](https://drive.google.com/drive/folders/1zwnY-y99nSaOkZP9RG_NpvpuPYRLjGpM?usp=sharing)
 
+- 📫 How to reach me **ysbhavsarwork@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yogeshbhavsar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogeshbhavsar02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yogeshbhasvar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogeshbhasvar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yogesh-b-a5667520b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogeshbhasvar" height="30" width="40" /></a>
+<a href="https://x.com/YogeshBhavsar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogeshbhavsar02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,8 +30,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/YogeshBhavsar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="YogeshBhavsar" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshsbhavsar&show_icons=true&locale=en&layout=compact" alt="yogeshsbhavsar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshsbhavsar&show_icons=true&locale=en&layout=compact" alt="yogeshsbhavsar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshsbhavsar&show_icons=true&locale=en" alt="yogeshsbhavsar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshsbhavsar&" alt="yogeshsbhavsar" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YogeshSBhavsar&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
